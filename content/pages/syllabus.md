@@ -32,18 +32,177 @@ HST students are graded on a Pass/Fail basis. Graduate Students in other program
 Calendar
 --------
 
-| SES # | TOPICS | INSTRUCTORS |
-| --- | --- | --- |
-| 1 | Introduction to social medicine: Concepts, theories, and data visualization of the burden of disease | Michael M. J. Fischer, Byron Good, Mary-Jo DelVecchio Good, and David Jones |
-| 2 | Decision making in cardiac therapeutics: Ethics, history, and policy | David Jones |
-| 3 | Partners in Health and post-earthquake Haiti | Joia Mukherjee |
-| 4 | What was health reform about? | David Cutler |
-| 5 | Setting up labs; Doing epidemiology in Africa | Bruce Walker; Felton Earls |
-| 6 | Clinical ethics and dilemmas in local and global contexts | Christine Mitchell |
-| 7 | "Global mental health" and "Medical humanitarianism and technologies of intervention" Aceh Case | Mary-Jo DelVecchio Good and Byron Good |
-| 8 | Whole genome sequencing: Technological and ethical challenges | George Church |
-| 9 | Patient-centered solutions for orphan diseases: Solving LAM | Amy Farber and Michael M. J. Fischer |
-| 10 | Comparative genomics for disease diagnosis and Lassa hemorrhagic fever and malaria in Africa | Pardis Sabeti |
-| 11 | Partners in Health: Clinical effectiveness, research, and the politics of health-care delivery in low-income societies | Salmaan Keshavjee and Mercedes Becerra |
-| 12 | Global health and global health policies | Paul Farmer |
-| 13 | Wrap-up and discussion |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+INSTRUCTORS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to social medicine: Concepts, theories, and data visualization of the burden of disease
+{{< tdclose >}}
+{{< tdopen >}}
+Michael M. J. Fischer, Byron Good, Mary-Jo DelVecchio Good, and David Jones
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Decision making in cardiac therapeutics: Ethics, history, and policy
+{{< tdclose >}}
+{{< tdopen >}}
+David Jones
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Partners in Health and post-earthquake Haiti
+{{< tdclose >}}
+{{< tdopen >}}
+Joia Mukherjee
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+What was health reform about?
+{{< tdclose >}}
+{{< tdopen >}}
+David Cutler
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Setting up labs; Doing epidemiology in Africa
+{{< tdclose >}}
+{{< tdopen >}}
+Bruce Walker; Felton Earls
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Clinical ethics and dilemmas in local and global contexts
+{{< tdclose >}}
+{{< tdopen >}}
+Christine Mitchell
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+"Global mental health" and "Medical humanitarianism and technologies of intervention" Aceh Case
+{{< tdclose >}}
+{{< tdopen >}}
+Mary-Jo DelVecchio Good and Byron Good
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Whole genome sequencing: Technological and ethical challenges
+{{< tdclose >}}
+{{< tdopen >}}
+George Church
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Patient-centered solutions for orphan diseases: Solving LAM
+{{< tdclose >}}
+{{< tdopen >}}
+Amy Farber and Michael M. J. Fischer
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Comparative genomics for disease diagnosis and Lassa hemorrhagic fever and malaria in Africa
+{{< tdclose >}}
+{{< tdopen >}}
+Pardis Sabeti
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Partners in Health: Clinical effectiveness, research, and the politics of health-care delivery in low-income societies
+{{< tdclose >}}
+{{< tdopen >}}
+Salmaan Keshavjee and Mercedes Becerra
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Global health and global health policies
+{{< tdclose >}}
+{{< tdopen >}}
+Paul Farmer
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap-up and discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
