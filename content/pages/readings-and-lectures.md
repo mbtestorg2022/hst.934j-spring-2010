@@ -145,7 +145,7 @@ Braveman, Paula, and Susan Egerter. _Overcoming Obstacles to Health: Report Fro
 
 Lopez, Alan D., et al. "[Global and Regional Burden of Disease and Risk Factors, 2001: Systematic Analysis of Population Health Data](http://linkinghub.elsevier.com/retrieve/pii/S0140673606687709)." _Lancet_ 367 (2006): 1747 – 57.
 
-Committee on Social Determinants of Health. _Closing the Gap in a Generation: Health Equity Through Action on the Social Determinants of Health_. Geneva, Switzerland: World Health Organization, 2008. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 7.3MB](http://whqlibdoc.who.int/publications/2008/9789241563703_eng.pdf))
+Committee on Social Determinants of Health. _Closing the Gap in a Generation: Health Equity Through Action on the Social Determinants of Health_. Geneva, Switzerland: World Health Organization, 2008. ([PDF - 7.3MB](http://whqlibdoc.who.int/publications/2008/9789241563703_eng.pdf))
 
 
 {{< tdclose >}}
@@ -210,10 +210,10 @@ Clinical ethics and dilemmas in local and global contexts - [Christine Mitchell]
 
 Good, Mary-Jo D. "Trauma in Postconflict Aceh and Psychopharmaceuticals as a Medium of Exchange." Unpublished manuscript.
 
-Good, Byron, et al. "Psychosocial Needs Assessment of Communities Affected by the Conflict in the Districts of Pidie, Bireuen and Aceh Utara." _Jakarta, Indonesia: International Organization for Migration_, 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.academia.edu/3399450/Psychosocial_Needs_Assessment_of_Communities_Affected_by_the_Conflicts_in_the_Districts_of_Pidie_Biereuen_and_Aceh_Utara
+Good, Byron, et al. "Psychosocial Needs Assessment of Communities Affected by the Conflict in the Districts of Pidie, Bireuen and Aceh Utara." _Jakarta, Indonesia: International Organization for Migration_, 2006. ([PDF](http://www.academia.edu/3399450/Psychosocial_Needs_Assessment_of_Communities_Affected_by_the_Conflicts_in_the_Districts_of_Pidie_Biereuen_and_Aceh_Utara
             ))
 
-———. "A Psychosocial Needs Assessment of Communities in 14 Conflict Affected Districts in Aceh." _Jakarta, Indonesia: International Organization for Migration_, 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB](http://reliefweb.int/report/indonesia/indonesia-psychosocial-needs-assessment-communities-14-conflict-affected-districts))
+———. "A Psychosocial Needs Assessment of Communities in 14 Conflict Affected Districts in Aceh." _Jakarta, Indonesia: International Organization for Migration_, 2007. ([PDF - 1.9MB](http://reliefweb.int/report/indonesia/indonesia-psychosocial-needs-assessment-communities-14-conflict-affected-districts))
 
 [Daedalus](http://www.jstor.org/stable/i20027581) 128, no.4 (1999): entire issue.
 
